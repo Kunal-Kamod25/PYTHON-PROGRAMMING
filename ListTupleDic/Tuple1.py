@@ -1,0 +1,8 @@
+Tup = ("Ertiga","Swift","Fortunar","Ertiga","Mastang")
+print(Tup)
+print(type(Tup[0]))
+print(len(Tup)) 
+K=Tup.index("Swift")
+print(K)
+K=Tup.count(Tup[0])
+print(K)
