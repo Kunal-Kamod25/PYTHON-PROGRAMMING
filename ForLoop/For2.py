@@ -1,3 +1,3 @@
 fruits = ["apple", "banana", "cherry"] 
-for x in (range(1 , 10)):
+for x in (range(1 , 20)):
     print(fruits)
