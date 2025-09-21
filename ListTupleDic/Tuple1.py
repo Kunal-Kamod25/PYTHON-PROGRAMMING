@@ -1,6 +1,6 @@
 Tup = ("Ertiga","Swift","Fortunar","Ertiga","Mastang")
 print(Tup)
-print(type(Tup[0]))
+print(type(Tup[1]))
 print(len(Tup)) 
 K=Tup.index("Ertiga")
 print(K)
