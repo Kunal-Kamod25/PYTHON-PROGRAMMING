@@ -1,6 +1,6 @@
 Successful = False
 for number in range(5):
-    print("Attempt")
+    print("Attempt.")
     if Successful:
         print("Successful")
         break
