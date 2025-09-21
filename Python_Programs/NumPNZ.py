@@ -3,9 +3,9 @@
 Num = 15
  
 if(Num > 0):
-    print("The Number Is Positive")
+    print("The number is positive")
 elif(Num == 0):
-    print("The Number Is Zero")
+    print("The number is zero")
 else:
+    print("The number is negative")
 
-    print("The Number Is Negative")
