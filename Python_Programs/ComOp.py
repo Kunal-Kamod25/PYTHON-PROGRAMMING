@@ -1,5 +1,5 @@
-a = 10
-b = 20
+a = 100
+b = 200
 print(f"Equalto: {a} == {b} = {a == b}")
 print(f"Greater than: {a} > {b} = {a > b}")
 print(f"Less than: {a} < {b} = {a < b}")
