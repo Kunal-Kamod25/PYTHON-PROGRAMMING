@@ -1,4 +1,5 @@
-A=(input("Enter the name: "))
-print(f"Upper name: {A.upper()}")
+A=(input("Enter The Name: "))
+print(f"Upper Name: {A.upper()}")
 print(len(A))
+
 print(f"A: {A} Type: {type(A)}")
