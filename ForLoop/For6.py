@@ -5,4 +5,4 @@ for number in range(5):
         print("Successful")
         break
 else:
-        print("Attempted 5 times and Failed......")
+        print("Attempted 5 Times and Failed......")
