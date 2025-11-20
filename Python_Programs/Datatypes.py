@@ -1,4 +1,4 @@
-name = "Kunal Kamod"
+name = "kunal kamod"
 age = 23
 height = 5.6
 isStudent = True
