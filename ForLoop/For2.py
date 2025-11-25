@@ -1,3 +1,3 @@
-fruits = ["apple", "Banana", "cherry"] 
+Fruits = ["apple", "Banana", "cherry"] 
 for x in (range(1 , 30)):
-    print(fruits)
+    print(Fruits)
