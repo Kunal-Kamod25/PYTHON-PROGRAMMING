@@ -1,5 +1,5 @@
 def main():
-    n = int(input("Enter number of elements: "))
+    n = int(input("Enter number of Elements: "))
 
     A = []  # in Python, lists grow dynamically
 
@@ -14,3 +14,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
