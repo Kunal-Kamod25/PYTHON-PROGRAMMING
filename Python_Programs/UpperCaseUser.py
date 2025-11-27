@@ -1,4 +1,5 @@
-A=(input("Enter the name: "))
+A=(input("Enter the Name: "))
 
 print(f"upper name: {A.Upper()}")
+
 
