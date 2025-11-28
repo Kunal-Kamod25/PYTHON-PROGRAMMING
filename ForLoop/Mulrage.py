@@ -1,4 +1,4 @@
-num = int(input("Enter the number: "))
+num = int(input("Enter the Number: "))
 
 if num < 100:
     print("Small")
@@ -10,3 +10,4 @@ elif 301 <= num <= 400:
     print("Largest")
 else:
     print("Very Large")
+
