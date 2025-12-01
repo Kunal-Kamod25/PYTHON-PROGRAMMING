@@ -1,4 +1,4 @@
-num = int(input("Enter an integer: "))
+num = int(input("Enter an Integer: "))
 original = num
 rev = 0
 
@@ -13,3 +13,4 @@ if original == rev:
     print("Number is palindrome.")
 else:
     print("Number is not palindrome.")
+
