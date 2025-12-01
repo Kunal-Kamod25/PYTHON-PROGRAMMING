@@ -1,4 +1,4 @@
-num = int(input("Enter an integer: "))
+num = int(input("Enter an Integer: "))
 rev = 0
 
 while num > 0:
@@ -6,3 +6,4 @@ while num > 0:
     num //= 10
 
 print("Reverse of number:", rev)
+
