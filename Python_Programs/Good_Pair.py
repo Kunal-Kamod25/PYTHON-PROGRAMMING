@@ -1,4 +1,4 @@
-n = int(input("enter array: "))
+n = int(input("Enter array: "))
 
 print("enter array elements:")
 A = [int(input()) for _ in range(n)]
