@@ -1,2 +1,3 @@
-A=(input("Enter the name: "))
+A=(input("Enter the Name: "))
+
 print(len(A))
