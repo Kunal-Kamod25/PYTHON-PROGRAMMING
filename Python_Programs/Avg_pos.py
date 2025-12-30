@@ -10,6 +10,6 @@ for i in range(n):
         count += 1
 
 if count > 0:
-    print("average =", total / count)
+    print("Average =", total / count)
 else:
-    print("non positive num")
+    print("Non positive num")
