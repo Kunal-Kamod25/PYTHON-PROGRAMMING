@@ -1,7 +1,8 @@
 n = int(input("Enter the number: "))
 
-for i in range(1, 11):
+for i in range(1, 21):
     if i % 2 == 0:
         continue
     else:
         print(i, "is even")
+
