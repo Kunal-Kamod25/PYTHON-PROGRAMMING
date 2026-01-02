@@ -1,5 +1,5 @@
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter second number: "))
+num1 = int(input("Enter first Number: "))
+num2 = int(input("Enter second Number: "))
 
 # Function to calculate sum of proper divisors
 def sum_of_divisors(n):
