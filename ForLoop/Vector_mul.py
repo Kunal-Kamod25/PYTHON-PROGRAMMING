@@ -1,4 +1,4 @@
-n = int(input("Enter the size of matrix: "))
+n = int(input("Enter the size of Matrix: "))
 
 # Initialize matrix, vector, and result
 matrix = []
