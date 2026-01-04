@@ -1,4 +1,4 @@
-n = int(input("Enter Number: "))
+n = int(input("Enter a Number: "))
 
 i = 1
 while i < n:
