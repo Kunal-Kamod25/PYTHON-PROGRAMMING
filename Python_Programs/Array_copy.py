@@ -1,4 +1,4 @@
-n = int(input("enter an num: "))
+n = int(input("Enter an Num: "))
 
 print("enter array elements:")
 a1 = []
