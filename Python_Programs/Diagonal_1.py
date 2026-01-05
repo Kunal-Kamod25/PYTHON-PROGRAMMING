@@ -1,5 +1,5 @@
 # Read size of square matrix
-n = int(input("Enter the size of square matrix: "))
+n = int(input("Enter the size of Square Matrix: "))
 
 # Create empty matrix
 matrix = [[0 for _ in range(n)] for _ in range(n)]
