@@ -1,4 +1,4 @@
-num = int(input("enter num: "))
+num = int(input("Enter Num: "))
 
 ans = 0
 
