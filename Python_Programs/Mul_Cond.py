@@ -1,4 +1,4 @@
-n = int(input("Enter the num: "))
+n = int(input("Enter the Num: "))
 
 if n < 100:
     print("small")
