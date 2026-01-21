@@ -1,4 +1,4 @@
-n = int(input("Enter the number of elements: "))
+n = int(input("Enter the number of Elements: "))
 
 print("Enter the elements:")
 arr = []
