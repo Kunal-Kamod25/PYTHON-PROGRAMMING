@@ -1,9 +1,9 @@
 # Read number of rows and columns
-rows = int(input("Enter the rows: "))
-colms = int(input("Enter the columns: "))
+rows = int(input("Enter the Rows: "))
+colms = int(input("Enter the Columns: "))
 
 # Read matrix elements
-print("Enter the elements of matrix:")
+print("Enter the Elements of Matrix:")
 matrix = []
 for i in range(rows):
     row = list(map(int, input().split()))
