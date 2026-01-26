@@ -1,6 +1,6 @@
 n = int(input("Enter size of Matrix: "))
 
-print("Enter matrix:")
+print("Enter Matrix:")
 m = []
 for r in range(n):
     row = list(map(int, input().split()))
