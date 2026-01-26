@@ -1,4 +1,4 @@
-message = "My name is kunal"
+message = "My name is Kunal"
 print(f"Original name: {message}")
 print(f"Upper name: {message.upper()}")
 print(f"Lower name: {message.lower()}")
