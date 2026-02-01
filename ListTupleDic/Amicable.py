@@ -15,6 +15,6 @@ ans2 = sum_of_divisors(num2)
 
 # Check amicable condition
 if ans1 == num2 and ans2 == num1:
-    print(num1, "and", num2, "are amicable numbers")
+    print(num1, "and", num2, "are Amicable Numbers")
 else:
-    print(num1, "and", num2, "are not amicable numbers")
+    print(num1, "and", num2, "are not Amicable Numbers")
