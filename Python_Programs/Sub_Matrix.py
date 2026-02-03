@@ -1,24 +1,24 @@
-n = int(input("enter size of matrix: "))
+n = int(input("Enter size of Matrix: "))
 
-print("enter first matrix:")
+print("Enter first Matrix:")
 m1 = []
 for r in range(n):
     row = list(map(int, input().split()))
     m1.append(row)
 
-print("enter second matrix:")
+print("Enter Second Matrix:")
 m2 = []
 for r in range(n):
     row = list(map(int, input().split()))
     m2.append(row)
 
-print("first matrix is:")
+print("First Matrix is:")
 for r in range(n):
     for c in range(n):
         print(m1[r][c], end=" ")
     print()
 
-print("second matrix is:")
+print("Second Matrix is:")
 for r in range(n):
     for c in range(n):
         print(m2[r][c], end=" ")
@@ -26,7 +26,7 @@ for r in range(n):
 
 # subtraction matrix
 sub = [[0] * n for _ in range(n)]
-print("subtraction matrix is:")
+print("Subtraction matrix is:")
 for r in range(n):
     for c in range(n):
         sub[r][c] = m1[r][c] - m2[r][c]
