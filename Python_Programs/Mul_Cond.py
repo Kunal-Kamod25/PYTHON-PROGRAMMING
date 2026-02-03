@@ -1,14 +1,14 @@
 n = int(input("Enter the Num: "))
 
 if n < 100:
-    print("small")
+    print("Small")
 elif n > 100 and n < 200:
-    print("large")
+    print("Large")
 elif n > 201 and n < 300:
-    print("bigger")
+    print("Bigger")
 elif n > 301 and n < 400:
-    print("largest")
+    print("Largest")
 elif n > 400:
-    print("very large")
+    print("Very large")
 else:
     print("invalid num")
