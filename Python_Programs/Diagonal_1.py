@@ -12,7 +12,7 @@ for i in range(n):
         matrix[i][j] = int(input())
 
 # Print diagonal elements
-print("Diagonal elements:")
+print("Diagonal Elements:")
 for i in range(n):
     print(matrix[i][i], end=" ")
 print()
