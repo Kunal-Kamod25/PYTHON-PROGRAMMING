@@ -26,7 +26,7 @@ for r in range(n):
 
 # subtraction matrix
 sub = [[0] * n for _ in range(n)]
-print("Subtraction matrix is:")
+print("Subtraction Matrix is:")
 for r in range(n):
     for c in range(n):
         sub[r][c] = m1[r][c] - m2[r][c]
