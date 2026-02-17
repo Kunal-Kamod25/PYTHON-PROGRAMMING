@@ -1,4 +1,4 @@
-n = int(input("Enter Size Of Matrix: "))
+n = int(input("Enter size of Matrix: "))
 
 print("Enter Matrix:")
 m = []
