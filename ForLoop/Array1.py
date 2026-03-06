@@ -1,14 +1,14 @@
 def main():
-    n = int(input("Enter an integer: "))
+    n = int(input("Enter an Integer: "))
 
     # Read array elements
     A = []
-    print("Enter array elements:")
+    print("Enter array Elements:")
     for i in range(n):
         A.append(int(input()))
 
     # Print entered array
-    print("The entered array is:")
+    print("The entered array Is:")
     for num in A:
         print(num, end=" ")
 
@@ -23,3 +23,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
