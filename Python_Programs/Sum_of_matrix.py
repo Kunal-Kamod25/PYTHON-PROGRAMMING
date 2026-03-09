@@ -2,22 +2,22 @@
 int main()
 {
     int n,r,c;
-    printf("enter size of matrix::");
+    printf("Enter size of Matrix::");
     scanf("%d",&n);
 
     int m1[n][n];
-    printf("enter first matrix::");
+    printf("Enter first Matrix::");
     for(r=0;r<n;r++)
         for(c=0;c<n;c++)
             scanf("%d",&m1[r][c]);
 
     int m2[n][n];
-    printf("enter second matrix:: ");
+    printf("Enter second Matrix:: ");
     for(r=0;r<n;r++)
         for(c=0;c<n;c++)
             scanf("%d",&m2[r][c]);
 
-    printf("first matrix is::");
+    printf("First matrix is::");
     for(r=0;r<n;r++)
     {
         for(c=0;c<n;c++)
@@ -25,7 +25,7 @@ int main()
         printf("\n");
     }
 
-    printf("second matrix is::");
+    printf("Second matrix is::");
     for(r=0;r<n;r++)
     {
         for(c=0;c<n;c++)

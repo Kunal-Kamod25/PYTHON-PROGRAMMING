@@ -1,4 +1,4 @@
-n = int(input("enter the num: "))
+n = int(input("Enter the Num: "))
 
 count = 0
 
@@ -9,4 +9,4 @@ else:
         count += 1
         n //= 10
 
-print("digit =", count)
+print("Digit =", count)

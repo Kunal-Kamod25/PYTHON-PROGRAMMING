@@ -1,4 +1,4 @@
-Subject = ["math", 54, 15.5, False]
+Subject = ["Math", 54, 15.5, False]
 Subject.append("Science")
 print(Subject)
 Subject.reverse()

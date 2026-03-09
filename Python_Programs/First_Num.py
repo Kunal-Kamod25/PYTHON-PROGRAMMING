@@ -1,4 +1,4 @@
-n, m = map(int, input("enter a n and m: ").split())
+n, m = map(int, input("Enter a n and m: ").split())
 
 i = n + 1
 while True:

@@ -1,5 +1,5 @@
 # Initial value but will be overwritten by user input
-n = int(input("Size of matrix: "))
+n = int(input("Size of Matrix: "))
 
 # Create an n x n matrix
 A = [[0] * n for _ in range(n)]
