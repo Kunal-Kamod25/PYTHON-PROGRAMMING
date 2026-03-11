@@ -1,4 +1,4 @@
-age = int(input("Enter the Alien age: "))
+age = int(input("Enter the Alien Age: "))
 
 if age < 5:
     print("Infant")
