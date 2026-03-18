@@ -5,7 +5,7 @@ for x in Fruite:
     if x == "Apple":
         break
 =======
-    if x == "Mango":
+    if x == "Maango":
         continue
     print(x)
 >>>>>>> Stashed changes
