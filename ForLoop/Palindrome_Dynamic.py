@@ -1,6 +1,6 @@
-n = int(input("enter the n elements: "))
+n = int(input("Enter the n elements: "))
 
-print("enter array:")
+print("Enter array:")
 arr = []
 for i in range(n):
     arr.append(int(input()))
@@ -17,6 +17,6 @@ while i < j:
     j -= 1
 
 if flag:
-    print("array is palindrome")
+    print("Array is palindrome")
 else:
-    print("array is not palindrome")
+    print("Array is not palindrome")
