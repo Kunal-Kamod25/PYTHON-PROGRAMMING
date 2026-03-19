@@ -1,4 +1,4 @@
-Tup = ("Ertiga","Swift","Fortunar","Ertiga","Mastang","GT")
+Tup = ("Ertiga","Swift","Fortunar","Ertiga","Mastang","GT","Verna")
 print(Tup)
 print(type(Tup[3]))
 print(len(Tup)) 
