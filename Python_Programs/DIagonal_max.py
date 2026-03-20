@@ -16,4 +16,4 @@ for i in range(n):
     if m[i][i] > max_val:
         max_val = m[i][i]
 
-print("\nmax =", max_val)
+print("\nMax =", max_val)
