@@ -1,6 +1,6 @@
 n = int(input("Enter an Num: "))
 
-print("enter array elements:")
+print("Enter array elements:")
 a1 = []
 for i in range(n):
     a1.append(int(input()))
