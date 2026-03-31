@@ -1,6 +1,6 @@
 n = int(input("Enter an n: "))
 
-print("enter matrix:")
+print("Enter matrix:")
 mat = []
 for r in range(n):
     row = list(map(int, input().split()))
@@ -10,4 +10,4 @@ mul = 1
 for r in range(n):
     mul *= mat[r][1]   # second column
 
-print("multiplication is =", mul)
+print("Multiplication is =", mul)
