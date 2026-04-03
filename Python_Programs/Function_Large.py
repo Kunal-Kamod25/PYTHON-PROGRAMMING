@@ -1,8 +1,8 @@
 def largest(n1, n2):
     if n1 > n2:
-        print("no is larger")
+        print("No is larger")
     else:
-        print("no is smaller")
+        print("No is smaller")
 
 
 n1, n2 = map(int, input("enter the two no: ").split())
