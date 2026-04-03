@@ -17,7 +17,7 @@ int main()
         for(c=0;c<n;c++)
             scanf("%d",&m2[r][c]);
 
-    printf("First matrix is::");
+    printf("First Matrix is::");
     for(r=0;r<n;r++)
     {
         for(c=0;c<n;c++)
@@ -25,7 +25,7 @@ int main()
         printf("\n");
     }
 
-    printf("Second matrix is::");
+    printf("Second Matrix is::");
     for(r=0;r<n;r++)
     {
         for(c=0;c<n;c++)
@@ -34,7 +34,7 @@ int main()
     }
 
     int sum[r][c];
-    printf("sum matrix is::");
+    printf("Sum Matrix is::");
     for(r=0;r<n;r++)
         for(c=0;c<n;c++)
             sum[r][c]=m1[r][c]+m2[r][c];
