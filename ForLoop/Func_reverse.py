@@ -6,5 +6,5 @@ def reverse(n):
     return rev
 
 
-num = int(input("enter the number: "))
+num = int(input("Enter the number: "))
 print("reverse =", reverse(num))
