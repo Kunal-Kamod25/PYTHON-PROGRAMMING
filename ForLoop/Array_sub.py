@@ -1,15 +1,15 @@
 # Read size of the matrix
-n = int(input("Enter the size of matrix: "))
+n = int(input("Enter the size of Matrix: "))
 
 # Read first matrix
-print("Enter the first matrix:")
+print("Enter the first Matrix:")
 matrix1 = []
 for i in range(n):
     row = list(map(int, input().split()))
     matrix1.append(row)
 
 # Read second matrix
-print("Enter the second matrix:")
+print("Enter the second Matrix:")
 matrix2 = []
 for i in range(n):
     row = list(map(int, input().split()))
