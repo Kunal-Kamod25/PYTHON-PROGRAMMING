@@ -6,8 +6,8 @@ while num > 0:
     rev = rev * 10 + num % 10
     num //= 10
 
-print("Original number:", original)
-print("Reverse of number:", rev)
+print("Original Number:", original)
+print("Reverse of Number:", rev)
 
 if original == rev:
     print("Number is palindrome.")
