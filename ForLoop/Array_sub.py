@@ -2,14 +2,14 @@
 n = int(input("Enter the size of Matrix: "))
 
 # Read first matrix
-print("Enter the first Matrix:")
+print("Enter the First Matrix:")
 matrix1 = []
 for i in range(n):
     row = list(map(int, input().split()))
     matrix1.append(row)
 
 # Read second matrix
-print("Enter the second Matrix:")
+print("Enter the Second Matrix:")
 matrix2 = []
 for i in range(n):
     row = list(map(int, input().split()))
@@ -24,6 +24,6 @@ for i in range(n):
     result.append(row)
 
 # Display result
-print("Subtraction of matrices:")
+print("Subtraction of Matrices:")
 for row in result:
     print(*row)
