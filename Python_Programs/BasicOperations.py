@@ -1,5 +1,5 @@
 a = 10
-b = 4
+b = 9
 print(f"Addition: {a} + {b} = {a + b}")
 print(f"Substraction: {a} - {b} = {a - b}")
 print(f"Multiplication: {a} * {b} = {a * b}")
