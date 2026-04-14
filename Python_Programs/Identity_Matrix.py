@@ -1,5 +1,5 @@
-r = int(input("Enter rows: "))
-c = int(input("Enter columns: "))
+r = int(input("Enter Rows: "))
+c = int(input("Enter Columns: "))
 
 print("Enter Matrix Elements:")
 A = [[0] * c for _ in range(r)]
