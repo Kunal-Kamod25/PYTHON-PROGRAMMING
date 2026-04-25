@@ -9,5 +9,5 @@ elif 201 <= num <= 300:
 elif 301 <= num <= 400:
     print("Largest")
 else:
-    print("Very large")
+    print("Very Large")
 
