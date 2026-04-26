@@ -1,4 +1,4 @@
-num = int(input("enter a number: "))
+num = int(input("Enter a number: "))
 
 if num < 10:
     check = 1
