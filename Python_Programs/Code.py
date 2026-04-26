@@ -1,4 +1,4 @@
-n = int(input("enter the num: "))
+n = int(input("Enter the Num: "))
 
 count = 0
 
