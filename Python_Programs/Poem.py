@@ -8,7 +8,7 @@ When he nothing shines upon,
 Then you show your little light,
 Twinkle, twinkle, all the night.
 
-Then the traveler in the dark
+Then the Traveler in the dark
 Thanks you for your tiny spark,
 How could he see where to go,
 If you did not twinkle so?
