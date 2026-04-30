@@ -15,7 +15,7 @@ for x in arr:
     else:
         zero += 1
 
-print(f"positive={pos}\t negative={neg}\t zero={zero}")
+print(f"Positive={pos}\t negative={neg}\t zero={zero}")
 
 # print pairs with positive sum
 for i in range(n):
