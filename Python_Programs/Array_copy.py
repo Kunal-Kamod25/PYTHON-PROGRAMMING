@@ -5,7 +5,7 @@ a1 = []
 for i in range(n):
     a1.append(int(input()))
 
-print("original array")
+print("Original array")
 for x in a1:
     print(x, end=" ")
 
