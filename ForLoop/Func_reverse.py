@@ -7,4 +7,4 @@ def reverse(n):
 
 
 num = int(input("Enter the Number: "))
-print("reverse =", reverse(num))
+print("Reverse =", reverse(num))
