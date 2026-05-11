@@ -1,4 +1,4 @@
-n = int(input("Enter the number of students: "))
+n = int(input("Enter the number of Students: "))
 
 print("Enter the marks:")
 for i in range(1, n + 1):
