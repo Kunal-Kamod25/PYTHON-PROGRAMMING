@@ -7,7 +7,7 @@ def calculator(a, b, operation):
         return a * b
     elif operation == "Divide":
         if b == 0:
-            return "Error: Cannot divide by Zero"
+            return "Error: Cannot divide By Zero"
         return a / b
     else:
         return "Invalid operation"
