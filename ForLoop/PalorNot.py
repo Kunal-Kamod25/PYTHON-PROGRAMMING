@@ -10,7 +10,7 @@ print("Original Number:", original)
 print("Reverse of Number:", rev)
 
 if original == rev:
-    print("Number is palindrome.")
+    print("Number is Palindrome.")
 else:
-    print("Number is not palindrome.")
+    print("Number is not Palindrome.")
 
