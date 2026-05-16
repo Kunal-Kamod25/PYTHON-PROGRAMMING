@@ -1,4 +1,4 @@
-Fruite = ["Banana" , "Apple" , "Mango" , "orange"]
+Fruite = ["Banana" , "Apple" , "Mango" , "Orange"]
 for x in Fruite:
 <<<<<<< Updated upstream
     print(x)
