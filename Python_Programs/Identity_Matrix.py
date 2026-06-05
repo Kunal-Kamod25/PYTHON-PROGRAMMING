@@ -1,7 +1,7 @@
 r = int(input("Enter Rows: "))
 c = int(input("Enter Columns: "))
 
-print("Enter Matrix Elements:")
+print("Enter Matrix elements:")
 A = [[0] * c for _ in range(r)]
 
 # Input matrix
