@@ -1,4 +1,4 @@
-n = int(input("Enter an n: "))
+n = int(input("Enter an number: "))
 
 print("Enter matrix:")
 mat = []
