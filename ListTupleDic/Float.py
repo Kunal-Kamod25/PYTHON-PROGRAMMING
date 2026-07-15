@@ -1,4 +1,4 @@
-n = float(input("Enter the value: "))
+n = float(input("Enter the Value: "))
 i = 2.0
 
 while i <= n:
