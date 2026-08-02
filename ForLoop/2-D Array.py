@@ -2,8 +2,8 @@
 n = 3
 A = [[0] * n for _ in range(n)]
 
-r = int(input("Enter row: "))
-c = int(input("Enter column: "))
+r = int(input("Enter a row: "))
+c = int(input("Enter a column: "))
 
 print("Enter matrix elements:")
 for i in range(r):
