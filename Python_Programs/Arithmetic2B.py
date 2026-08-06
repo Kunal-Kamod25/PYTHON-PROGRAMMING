@@ -8,4 +8,4 @@ y = int(input("Enter integer y: "))
 result = math.sqrt(2 * x * x + 4 * y + x + 10)
 
 # Print result
-print("Answer is =", result)
+print("Answer is =", result) //kk
