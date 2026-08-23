@@ -1,7 +1,7 @@
 class Solution:
     def reverse(self, x: int) -> int:
         ans = 0
-        sign = -1 if x < 0 else 1
+        sign = -1 if x < 0 else 2
         x = abs(x)
 
         while x != 0:
