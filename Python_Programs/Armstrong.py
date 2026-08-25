@@ -8,4 +8,4 @@ for i in range(1, 1000):
         temp //= 10
 
     if total == i:
-        print(i, "is an Armstrong number")
+        print(i, "is an Armstrong Number")
