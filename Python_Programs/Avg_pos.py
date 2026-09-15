@@ -4,7 +4,7 @@ count = 0
 total = 0.0
 
 for i in range(n):
-    num = float(input("enter num: "))
+    num = float(input("Enter num: "))
     if num > 0:
         total += num
         count += 1
