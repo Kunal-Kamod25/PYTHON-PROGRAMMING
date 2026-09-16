@@ -1,5 +1,5 @@
 while True:
-    op = input("enter the operator (-,+,*,/, or 4 to exit): ")
+    op = input("Enter the operator (-,+,*,/, or 4 to exit): ")
 
     if op == '4':   # exit condition
         break
