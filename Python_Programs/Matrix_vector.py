@@ -1,4 +1,4 @@
-n = int(input("Enter size of matrix: "))
+n = int(input("Enter size of Matrix: "))
 
 # Create matrix and vectors
 m = [[0] * n for _ in range(n)]
