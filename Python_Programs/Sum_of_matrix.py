@@ -34,7 +34,7 @@ int main()
     }
 
     int sum[r][c];
-    printf("Sum Matrix is::");
+    printf("Sum Matrix Is::");
     for(r=0;r<n;r++)
         for(c=0;c<n;c++)
             sum[r][c]=m1[r][c]+m2[r][c];
