@@ -5,5 +5,5 @@ def largest(n1, n2):
         print("No is smaller")
 
 
-n1, n2 = map(int, input("Enter the two no: ").split())
+n1, n2 = map(int, input("Enter the two No: ").split())
 largest(n1, n2)
