@@ -1,6 +1,6 @@
-n = int(input("Enter array Size: "))
+n = int(input("Enter Array Size: "))
 
-print("Enter array Elements:")
+print("Enter Array Elements:")
 a = []
 for i in range(n):
     a.append(int(input()))
