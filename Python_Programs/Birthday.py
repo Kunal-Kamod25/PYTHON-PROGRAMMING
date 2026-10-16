@@ -1,7 +1,7 @@
 import turtle
 import random
 import time
-
+#kk
 # Set up the screen
 screen = turtle.Screen()
 screen.bgcolor("skyblue")
