@@ -1,6 +1,6 @@
 def main():
     try:
-        n = int(input("enter a num: "))
+        n = int(input("Enter a num: "))
     except ValueError:
         print("Invalid integer.")
         return
