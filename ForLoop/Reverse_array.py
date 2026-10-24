@@ -1,9 +1,9 @@
 # Read number of elements
-n = int(input("Enter n elements: "))
+n = int(input("Enter n Elements: "))
 
 # Read array elements
 arr = []
-print("Enter array:")
+print("Enter Array:")
 for i in range(n):
     arr.append(int(input()))
 
