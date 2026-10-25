@@ -9,5 +9,5 @@ total = 0.0
 for i in range(n):
     total += a[i]
 
-print("Sum =", total)
+print("sum =", total)
 print("Average =", total / n)
