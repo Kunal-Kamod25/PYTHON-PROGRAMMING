@@ -10,4 +10,4 @@ for i in range(n):
     total += a[i]
 
 print("sum =", total)
-print("Average =", total / n)
+print("AverAge =", total / n)
