@@ -1,4 +1,4 @@
-n = int(input("Enter an Integer: "))
+n = int(input("Enter An Integer: "))
 
 s = 0
 i = 1
