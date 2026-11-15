@@ -18,4 +18,4 @@ while i <= n:
     print()
     s += 2
     tn -= 1
-    i += 1
+    i += 1 # kk
