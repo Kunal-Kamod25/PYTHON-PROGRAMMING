@@ -25,7 +25,7 @@ int main()
         printf("\n");
     }
 
-    printf("Second Matrix is::");
+    printf("Second Matrix Is::");
     for(r=0;r<n;r++)
     {
         for(c=0;c<n;c++)
